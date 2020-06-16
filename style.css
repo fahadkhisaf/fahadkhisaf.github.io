@@ -1,0 +1,86 @@
+/*Using the html tag selector */
+h1 {
+    color: rgba(234, 84, 91, 0.95);
+    font-family: 'MuseoModerno', cursive;
+    font-weight: bold;
+}
+/*
+h2, h3 {
+    color: rgba(234, 84, 91, 0.9);
+}*/
+h1, h2{
+    text-align: center;
+}
+
+ 
+
+h2, h3 {
+    color: #ea545b;
+    opacity: 0.90;
+    font-family: 'Roboto', sans-serif;
+}
+
+ 
+
+body {
+    background-color: #990003;
+    color: rgb(30, 30, 30);
+    font-family: serif, times;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+ 
+
+p {
+    color: rgb(30, 30, 30);
+    font-family: serif, times;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+ 
+
+a {
+    text-decoration: none;
+    color: rgb(30, 30, 30);
+    opacity: 0.80;
+    font-family: 'Roboto', sans-serif;
+}
+
+ 
+
+img {
+    border: solid 3px grey;
+    text-align: center;
+}
+
+ 
+
+
+/*Using the html class attribute selector */
+.section-white {
+    background-color: white;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px rgba(50, 50, 50, 0.7);
+}
+
+ 
+
+.text-center { 
+    text-align: center;
+}
+
+ 
+
+.text-left {
+    text-align: left;
+}
+
+ 
+
+.changes {
+    
+}
